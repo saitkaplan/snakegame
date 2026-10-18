@@ -1,6 +1,6 @@
 # Snake Game
 
-The classic snake game, built with Python's `turtle` module. Eat the green food to grow; the game speeds up as your score rises, and the high score is saved to a file. One of the first programs I wrote while learning Python, between July and November 2023, kept here as it was.
+The classic snake game, built with Python's `turtle` module. Eat the green food to grow; the game speeds up as your score rises, and the high score is saved to a file. One of the first programs I wrote while learning Python, between July and November 2023, kept here as it was. Built while following Angela Yu's *100 Days of Code: The Complete Python Pro Bootcamp* (Udemy, The App Brewery).
 
 ## Run
 
@@ -28,7 +28,7 @@ Use the arrow keys to move. Hitting the edge or your own tail resets the score a
 
 ## Yılan Oyunu (Türkçe)
 
-Python'un `turtle` modülüyle yazılmış klasik yılan oyunu. Yeşil yemleri yiyerek uzarsın; puan arttıkça oyun hızlanır, en yüksek puan bir dosyaya kaydedilir. Python öğrenirken, Temmuz ile Kasım 2023 arasında yazdığım ilk programlardan biri; hatıra olarak olduğu gibi saklanıyor.
+Python'un `turtle` modülüyle yazılmış klasik yılan oyunu. Yeşil yemleri yiyerek uzarsın; puan arttıkça oyun hızlanır, en yüksek puan bir dosyaya kaydedilir. Python öğrenirken, Temmuz ile Kasım 2023 arasında yazdığım ilk programlardan biri; hatıra olarak olduğu gibi saklanıyor. Angela Yu'nun *100 Days of Code: The Complete Python Pro Bootcamp* kursunu (Udemy, The App Brewery) takip ederken yazıldı.
 
 ### Çalıştırma
 
